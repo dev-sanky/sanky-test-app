@@ -1,2 +1,2 @@
-#Sanky-Test-App
+#sanky-test-app
 
