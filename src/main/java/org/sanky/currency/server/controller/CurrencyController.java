@@ -14,7 +14,7 @@ public class CurrencyController {
 	
 	private static final String DEFAULT_BASE_CURRENCY_CODE = "USD";
 	
-	@GetMapping("/currency/base/{baseCurrencyCode}")
+	@GetMapping("/sanky-test-app/base/{baseCurrencyCode}")
 	public String getLatestExchangeRates(@PathVariable String baseCurrencyCode){
 		
 		//if(currencyService.isValidApplicationId(applicationId)) {
